@@ -7,4 +7,6 @@
     font-weight: normal;
     line-height: 25px;
     z-index: 2;
+    margin: 0;
+    padding: 0;
 }
