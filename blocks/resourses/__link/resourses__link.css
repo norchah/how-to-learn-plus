@@ -1,0 +1,14 @@
+.resourses__link {
+    text-decoration: none;
+}
+
+/* .resourses__link:hover {
+    opacity: 0.7;
+    transform: scale(1.005);
+} */
+
+.resourses__link:hover .resourses__logo {
+    opacity: 0.7;
+    transform: scale(1.5);
+    
+}
