@@ -4,7 +4,6 @@
     line-height: 34px;
     font-size: 24px;
     font-weight: normal;
-    width: 95%; /* для того что бы текст переносился точно как в макете */
 }
 
 .two-columns__paragraph:first-child {
