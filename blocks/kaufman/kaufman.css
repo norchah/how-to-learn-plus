@@ -4,15 +4,3 @@
     padding: 90px 0;
     overflow: hidden;
 }
-
-.kaufman::after {
-    content: "";
-    width: 877px;
-    height: 877px;
-    position: absolute;
-    top: 0;
-    right: -200px;
-    background-image: url(../../images/kaufman-triangle.svg);
-    background-position: -150px 0;
-    animation: rotation 20s linear infinite forwards;
-}
